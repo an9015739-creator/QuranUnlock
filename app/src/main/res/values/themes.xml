@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.QuranUnlock" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/emerald_primary</item>
+        <item name="colorPrimaryVariant">@color/emerald_dark</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        
+        <item name="colorSecondary">@color/gold_accent</item>
+        <item name="colorSecondaryVariant">@color/gold_light</item>
+        <item name="colorOnSecondary">@color/bg_dark_root</item>
+
+        <item name="android:statusBarColor">@color/bg_dark_root</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/bg_dark_root</item>
+        <item name="android:windowBackground">@color/bg_dark_root</item>
+    </style>
+</resources>

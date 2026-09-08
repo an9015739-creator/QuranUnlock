@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Quran Unlock Islamic Dark Palette -->
+    <color name="emerald_primary">#10B981</color>
+    <color name="emerald_dark">#064E3B</color>
+    <color name="emerald_accent">#059669</color>
+    <color name="gold_accent">#F59E0B</color>
+    <color name="gold_light">#FCD34D</color>
+
+    <color name="bg_dark_root">#0C0A09</color>
+    <color name="bg_dark_surface">#1C1917</color>
+    <color name="bg_dark_card">#292524</color>
+    <color name="border_dark">#44403C</color>
+
+    <color name="text_primary">#F5F5F4</color>
+    <color name="text_secondary">#A8A29E</color>
+    <color name="text_muted">#78716C</color>
+
+    <color name="red_accent">#EF4444</color>
+</resources>
